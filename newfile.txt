@@ -2,3 +2,4 @@ new file text
 add line 2
 add line 3
 branch 2 add line 4
+branch 2 add line 5
